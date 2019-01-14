@@ -1,0 +1,11 @@
+{
+  "name": "Vue Single Page App",
+  "short_name": "VueSPA",
+  "icons": {
+    "src": "https://objectcomputing.com/files/5415/1447/3558/vue.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  },
+  "start_url": "/",
+  "display": "standalone"
+}
